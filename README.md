@@ -1,5 +1,7 @@
 #   Monitorowanie Logów 
 
+[Wypróbuj aplikację tutaj](https://monitorowanie-logow-x2lkb9ra6wg6hkjzlujfvm.streamlit.app/)
+
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red.svg)
 
