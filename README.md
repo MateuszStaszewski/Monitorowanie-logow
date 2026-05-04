@@ -32,8 +32,8 @@ Prosty i skuteczny dashboard stworzony w technologii **Streamlit**, służący d
 * ** `streamlit run dashboard.py`
 
 ##  Struktura projektu
-* **dashboard.py – główny skrypt aplikacji.
-* **access.log – plik źródłowy z logami serwera.
-* **requirements.txt – lista bibliotek niezbędnych do działania.
-* **blocked\_ips.txt – baza zablokowanych adresów IP (generowana automatycznie).
-* **.gitignore – plik ignorujący dane wrażliwe i pliki tymczasowe.
+* dashboard.py – główny skrypt aplikacji.
+* access.log – plik źródłowy z logami serwera.
+* requirements.txt – lista bibliotek niezbędnych do działania.
+* blocked\_ips.txt – baza zablokowanych adresów IP (generowana automatycznie).
+* .gitignore – plik ignorujący dane wrażliwe i pliki tymczasowe.
