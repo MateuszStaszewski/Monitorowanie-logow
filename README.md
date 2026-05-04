@@ -25,7 +25,7 @@ Prosty i skuteczny dashboard stworzony w technologii **Streamlit**, służący d
    ```bash
    git clone \https://github.com/TWOJ\_LOGIN/TWOJE\_REPO.git
    cd "Monitorowanie logów"
-2. Stwórz środowisko wirtualne:\*\* `python -m venv venv` , `venv\\Scripts\\activate`
+2. Stwórz środowisko wirtualne: `python -m venv venv` , `venv\\Scripts\\activate`
 3. **Zainstaluj zależności:** `pip install -r requirements.txt`
 
 ##  Uruchomienie
