@@ -1,0 +1,4 @@
+blocked_ips.txt
+venv/
+__pycache__/
+.DS_Store
